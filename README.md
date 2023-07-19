@@ -1,6 +1,6 @@
 # react-form
 
-<b>Este e um site desenvolvido em react fiz ele para eu praticar com a tecnologia o site e de login ele tem sistema de rotas com a home login a página de criar conta e página de recuperação de senha, ele também tem a tela de 404 para caso usuario acesse uma pagina que não exista.<b>
+<b>Este e um site desenvolvido em react fiz ele para eu praticar com a tecnologia o site e de login ele tem sistema de rotas com páginas de login página de criar conta e uma página de recuperação de senha, ele também tem a tela de 404 para caso usuario acesse uma pagina que não exista.<b>
 <br>
 
 <h1>Tecnologias utilizadas</h1>
