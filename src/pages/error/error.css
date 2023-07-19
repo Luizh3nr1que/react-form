@@ -1,0 +1,47 @@
+.container {
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.923) 86%);
+    position: relative;
+}
+
+.img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+    opacity: .8;
+}
+
+
+.mensage h2 {
+    font-size: 14rem;
+    color: rgb(255, 144, 85);
+}
+
+.mensage h1 {
+    font-size: 3rem;
+    color: rgb(254, 254, 254);
+}
+
+.mensage button {
+    background-color: rgb(255, 144, 85);
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+    border: none;
+    font-size: 17px;
+    border-radius: 30px;
+    color: white;
+}
+
+.mensage button:hover {
+    background-color: rgb(226, 113, 52);
+}
